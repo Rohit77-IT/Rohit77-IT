@@ -1,3 +1,8 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Doto&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&color=ffffff&lines=Hey,+What's+up?!;Rohit+Dey+Here!;" />
+</h1>
+
+
 # 💫 About Me:
 •🔭 I’m currently working on LLM and focusing on making helpful chatbots<br>•🌱 I’m currently learning Fine Tuning AI models<br>•🎯 Goal: To engineer smart chatbots and enhance the use of AI in daily productivity.<br>
 
